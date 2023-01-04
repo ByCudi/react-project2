@@ -19,4 +19,9 @@ export const baseColaboradores = [
     nombre: "Colaborador 4",
     correo: "colaborador4@colaborador4.com",
   },
+  {
+    id: "5",
+    nombre: "Pido Disculpas por la poca creatividad :(",
+    correo: "DisculpasPublicas@colaborador.com",
+  },
 ];
